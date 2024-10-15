@@ -17,6 +17,7 @@ public class AplicacionFisioterapiaBrazo {
         // TODO code application logic here
         System.out.println("hola esta es solo una prueba");
         System.out.println("pruba2");
+        System.out.println("esta es desde clase");
     }
     
 }
